@@ -1,2 +1,2 @@
 # bert_word_count
-[2021-2 project] improved text readability classification performance based on word frequency & BERT 
+[2021-2 project] Text readability classification based on BERT and word frequency embeddings 
